@@ -1,5 +1,5 @@
 //console log goes here
-consoleLogs = () => {
+function consoleLogs() {
   console.log("hey");
-  console.log("what the fuck?");
-};
+  console.log("what the fork?");
+}
