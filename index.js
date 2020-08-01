@@ -1,3 +1,1 @@
-function consoleLog() {
-  console.log("hai");
-}
+//console log goes here
